@@ -71,9 +71,6 @@ MODS = {
     [71941577] = true; --
     [1893641861] = true; --
     [2798431306] = true; --
-    [2256443109] = true; -- atkD
-    [1438186198] = true; -- keke
-    [272920725] = true; -- nana
     [2250658895] = true; --
     [2360560929] = true; --
     [480113448] = true; --
@@ -83,18 +80,17 @@ MODS = {
     [2041622060] = true; --
     [3140798308] = true; --  
     [2816312889] = true; --  
+    [1458154337] = true; --  
 }
 
 ADMIN = {
     [2327057026] = true; -- dimag
-    [324778090] = true; -- tyler
     [3171845222] = true; -- crown emoji buyer
     [1821130276] = true; -- crown emoji buyer
-    [2889684872] = true; -- zinnia
     [236937914] = true; -- crown buyer
     [562915894] = true; -- crown buyer <@733437144852332696>
     [2869703616] = true; -- crown buyer
-    [2256443109] = true; -- atkD
+    
 }
 
 --// Don't mess with anything below this
