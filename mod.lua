@@ -108,10 +108,11 @@ MODS = {
     [2345786798] = true; -- 
     [1150780244] = true; -- 
     [3295695684] = true; --
+    [3100746109] = true; --
 }
 
 ADMIN = {
-    [2327057026] = true; -- dimag
+    [3100746109] = true; -- dimag
     [3171845222] = true; -- crown emoji buyer
     [1821130276] = true; -- crown emoji buyer
     [236937914] = true; -- crown buyer
