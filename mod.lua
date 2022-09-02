@@ -5,16 +5,6 @@ MODS = {
 
 ADMIN = {
     [3100746109] = true; -- dimag
-    [3171845222] = true; -- crown emoji buyer
-    [1821130276] = true; -- crown emoji buyer
-    [236937914] = true; -- crown buyer
-    [562915894] = true; -- crown buyer <@733437144852332696>
-    [2869703616] = true; -- crown buyer
-    [2744421473] = true; --  
-    [397365145] = true; --  
-    [219133339] = true; --
-    [103838106] = true; --
-    [112086559] = true; --
     
 }
 
